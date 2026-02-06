@@ -39,7 +39,7 @@ namespace Beam_Manager
             modsPathBox.BorderStyle = BorderStyle.FixedSingle;
             modsPathBox.Location = new Point(50, 84);
             modsPathBox.Name = "modsPathBox";
-            modsPathBox.Size = new Size(754, 23);
+            modsPathBox.Size = new Size(1127, 23);
             modsPathBox.TabIndex = 12;
             // 
             // selectModsPathBtn
@@ -81,7 +81,7 @@ namespace Beam_Manager
             flowVehicles.BorderStyle = BorderStyle.FixedSingle;
             flowVehicles.Location = new Point(12, 172);
             flowVehicles.Name = "flowVehicles";
-            flowVehicles.Size = new Size(792, 305);
+            flowVehicles.Size = new Size(1165, 726);
             flowVehicles.TabIndex = 16;
             // 
             // flowConfigs
@@ -92,7 +92,7 @@ namespace Beam_Manager
             flowConfigs.BorderStyle = BorderStyle.FixedSingle;
             flowConfigs.Location = new Point(12, 172);
             flowConfigs.Name = "flowConfigs";
-            flowConfigs.Size = new Size(792, 305);
+            flowConfigs.Size = new Size(1165, 726);
             flowConfigs.TabIndex = 21;
             flowConfigs.Visible = false;
             // 
@@ -109,7 +109,7 @@ namespace Beam_Manager
             // 
             statusLabelCount.Anchor = AnchorStyles.Top | AnchorStyles.Right;
             statusLabelCount.AutoSize = true;
-            statusLabelCount.Location = new Point(700, 116);
+            statusLabelCount.Location = new Point(1073, 116);
             statusLabelCount.Name = "statusLabelCount";
             statusLabelCount.Size = new Size(0, 15);
             statusLabelCount.TabIndex = 22;
@@ -120,7 +120,7 @@ namespace Beam_Manager
             progressBarScan.Anchor = AnchorStyles.Top | AnchorStyles.Left | AnchorStyles.Right;
             progressBarScan.Location = new Point(524, 134);
             progressBarScan.Name = "progressBarScan";
-            progressBarScan.Size = new Size(280, 23);
+            progressBarScan.Size = new Size(653, 23);
             progressBarScan.TabIndex = 18;
             progressBarScan.Visible = false;
             // 
@@ -151,7 +151,7 @@ namespace Beam_Manager
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(816, 489);
+            ClientSize = new Size(1189, 910);
             Controls.Add(appIcon1);
             Controls.Add(backBtn);
             Controls.Add(progressBarScan);
