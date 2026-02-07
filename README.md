@@ -87,7 +87,7 @@ Beam Manager is built on **.NET 10 (WinForms)** and implements several advanced 
 **Steps:**
 1.  Clone the repository:
     ```bash
-    git clone https://github.com/YourUsername/Beam-Manager.git
+    git clone https://github.com/mastercodeon31415/Beam-Manager.git
     ```
 2.  Open `Beam Manager.sln` in Visual Studio.
 3.  Restore NuGet packages.
