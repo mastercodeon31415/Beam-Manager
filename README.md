@@ -8,12 +8,28 @@
 
 ---
 
+## 📸 Visual Tour
+
+| **The Main Library** |
+|:---:|
+| ![Screenshot: Main Grid View](PLACEHOLDER_LINK_HERE) |
+| *Capture the main window showing the grid of vehicle tiles. Ensure the rounded corners and "Leaf" shaped overlays are visible.* |
+
+| **Deep Inspection** | **Live Editing** |
+|:---:|:---:|
+| ![Screenshot: Config View](PLACEHOLDER_LINK_HERE) | ![Screenshot: Edit Context Menu](PLACEHOLDER_LINK_HERE) |
+| *Capture the view after clicking a vehicle, showing all the .pc config tiles inside.* | *Capture the right-click context menu on a vehicle tile, showing the "Edit Make & Model" option.* |
+
+---
+
 ## ✨ Key Features
 
-### 🚀 **Instant Loading with Smart Caching**
-Beam Manager uses a custom **Binary Cache System (`.bmc`)**.
-*   **Zero-Wait:** After the initial scan, your library loads instantly, even with thousands of mods.
-*   **Smart Sync:** The app detects file changes, renames, and deletions automatically. It only rescans files that have actually changed on disk.
+### 🔄 **True Auto-Synchronization**
+Beam Manager features a self-healing **Binary Cache System (`.bmc`)**. You only need to run a full scan **once**. After that, the app handles everything automatically on startup:
+*   **📂 New Files:** Detects new zips added to your mods folder (or any subfolder) and adds them to the library.
+*   **🗑️ Deletions:** Instantly removes mods from the library if the zip file was deleted from disk.
+*   **✏️ Renames:** Intelligently detects if a zip file was renamed and updates the record without losing data.
+*   **📦 Content Changes:** If you modify a texture or file *inside* a zip (or update a mod), the app detects the hash change and re-scans only that specific file.
 
 ### 🎨 **Pixel-Perfect UI**
 Designed to feel native to BeamNG.drive.
