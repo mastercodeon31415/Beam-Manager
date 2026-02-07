@@ -99,5 +99,15 @@ Beam Manager is built on **.NET 10 (WinForms)** and implements several advanced 
 ## 🤝 Contributing
 Pull requests are welcome! If you find a bug or have a feature idea, please open an issue first to discuss it.
 
+## Donation links
+
+Anything is super helpful! Anything donated helps me keep developing this program and others!
+- https://www.paypal.com/paypalme/lifeline42
+- https://cash.app/$codoen314
+- BTC: bc1qp8pay5qrg77kg2yyguvlwjxpnl8u0wl4r8hddp
+
 ## 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Contact The Developers
+- Discord handle: hatersgonnahate314
