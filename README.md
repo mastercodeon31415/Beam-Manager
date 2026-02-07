@@ -13,12 +13,12 @@
 | **The Main Library** |
 |:---:|
 | ![Screenshot: Main Grid View](PLACEHOLDER_LINK_HERE) |
-| *Capture the main window showing the grid of vehicle tiles. Ensure the rounded corners and "Leaf" shaped overlays are visible.* |
+| *Capture the main window showing the grid of vehicle tiles. Notice the rounded corners and "Leaf" shaped overlays.* |
 
 | **Deep Inspection** | **Live Editing** |
 |:---:|:---:|
 | ![Screenshot: Config View](PLACEHOLDER_LINK_HERE) | ![Screenshot: Edit Context Menu](PLACEHOLDER_LINK_HERE) |
-| *Capture the view after clicking a vehicle, showing all the .pc config tiles inside.* | *Capture the right-click context menu on a vehicle tile, showing the "Edit Make & Model" option.* |
+| *The view after clicking a vehicle, showing all the .pc config tiles inside.* | *The right-click context menu on a vehicle tile, showing the "Edit Make & Model" option.* |
 
 ---
 
