@@ -39,8 +39,6 @@ namespace Beam_Manager
             flowConfigs.Visible = false;
             flowConfigs.Bounds = flowVehicles.Bounds;
             flowConfigs.Anchor = flowVehicles.Anchor;
-
-            
         }
 
         private void UiUpdateTimer_Tick(object sender, EventArgs e)
