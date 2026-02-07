@@ -39,6 +39,8 @@ namespace Beam_Manager
             flowConfigs.Visible = false;
             flowConfigs.Bounds = flowVehicles.Bounds;
             flowConfigs.Anchor = flowVehicles.Anchor;
+
+            
         }
 
         private void UiUpdateTimer_Tick(object sender, EventArgs e)
@@ -137,6 +139,13 @@ namespace Beam_Manager
                 statusLabelFile.Text = "Ready.";
                 statusLabelCount.Text = $"{flowVehicles.Controls.Count} Vehicles Loaded";
                 GC.Collect();
+
+                Application.DoEvents();
+
+                if (this.WindowState == FormWindowState.Normal)
+                {
+                    this.Size = new Size(this.Size.Width + 8, this.Size.Height);
+                }
             }
         }
 
