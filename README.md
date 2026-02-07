@@ -64,7 +64,7 @@ Beam Manager is built on **.NET 10 (WinForms)** and implements several advanced 
 ## 🏗 Building from Source
 
 **Prerequisites:**
-*   Visual Studio 2022 (v17.12 or newer)
+*   Visual Studio 2026 (v11429.125 or newer)
 *   .NET 10 SDK
 
 **Steps:**
