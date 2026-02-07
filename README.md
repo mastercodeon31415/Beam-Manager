@@ -6,18 +6,19 @@
 
 **Beam Manager** is a high-performance, external management tool for BeamNG.drive vehicle mods. It bridges the gap between Windows Explorer and the in-game repository, allowing you to visualize, inspect, and edit your mod collection instantly without launching the game.
 
+
 ---
 
 ## 📸 Visual Tour
 
 | **The Main Library** |
 |:---:|
-| ![Screenshot: Main Grid View](PLACEHOLDER_LINK_HERE) |
+| ![Screenshot: Main Grid View](https://github.com/user-attachments/assets/63f1bbc8-1d99-4b99-9a4d-8477dab6dfc4) |
 | *Capture the main window showing the grid of vehicle tiles. Notice the rounded corners and "Leaf" shaped overlays.* |
 
 | **Deep Inspection** | **Live Editing** |
 |:---:|:---:|
-| ![Screenshot: Config View](PLACEHOLDER_LINK_HERE) | ![Screenshot: Edit Context Menu](PLACEHOLDER_LINK_HERE) |
+| ![Screenshot: Config View](https://github.com/user-attachments/assets/698cea86-9a0d-481a-a6dd-c2f16598a8a3) | ![Screenshot: Edit Context Menu](https://github.com/user-attachments/assets/54b3b3f1-50b7-425f-80b7-dd3625794dc9) |
 | *The view after clicking a vehicle, showing all the .pc config tiles inside.* | *The right-click context menu on a vehicle tile, showing the "Edit Make & Model" option.* |
 
 ---
