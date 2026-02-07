@@ -14,7 +14,7 @@
 | **The Main Library** |
 |:---:|
 | ![Screenshot: Main Grid View](https://github.com/user-attachments/assets/63f1bbc8-1d99-4b99-9a4d-8477dab6dfc4) |
-| *Capture the main window showing the grid of vehicle tiles. Notice the rounded corners and "Leaf" shaped overlays.* |
+| *The main window showing the grid of vehicle tiles. Notice the rounded corners and "Leaf" shaped overlays.* |
 
 | **Deep Inspection** | **Live Editing** |
 |:---:|:---:|
